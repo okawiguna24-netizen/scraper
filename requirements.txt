@@ -1,3 +1,4 @@
 pandas
 flask
 selenium
+webdriver-manager
